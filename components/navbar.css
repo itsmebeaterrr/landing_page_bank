@@ -1,0 +1,27 @@
+.sigmanavbar{
+    font-size: 20px;
+    text-align: right;
+    height: 90px;   
+    background-color: rgb(32, 3, 70);
+    text-decoration: none;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.LINK a{
+        font-size: 25px;
+        margin-left: 20px;
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+}
+a{
+    margin-right: 20px;
+    text-decoration: none;
+}
+.sigmanavbar p{
+    margin-right: 1200px;
+    padding-top: 10px;
+    font-size: 25px;
+    text-decoration: none;
+    color:  rgb(255, 255, 255);
+}
